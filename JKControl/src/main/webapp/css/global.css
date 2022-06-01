@@ -1,0 +1,17 @@
+body{
+	background-color: #ddd;
+}
+
+.thumb{
+	width: 120px;
+	border-radius: 10px;
+}
+
+.rg {
+	display: flex;
+	flex-direction: row;
+	gap: 8px;
+}
+#digito {
+	width: 2rem;
+}
